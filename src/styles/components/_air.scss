@@ -1,0 +1,29 @@
+.air-containner {
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+  flex-direction: row;
+  display: flex;
+  background: white;
+  border-radius: 10px;
+  flex: 1 1 0%;
+}
+
+.air-inner {
+  display: flex;
+  flex: 1 1 0%;
+}
+
+.air-aqi {
+  flex-direction: column;
+  display: flex;
+  place-content: stretch center;
+  flex: 1 1 0%;
+}
+
+.air-condition {
+  flex-direction: column;
+  display: flex;
+  place-content: stretch center;
+  flex: 1 1 0%;
+}

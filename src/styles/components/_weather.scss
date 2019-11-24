@@ -1,0 +1,21 @@
+.weather-head {
+  align-items: center;
+  flex-direction: row;
+  display: flex;
+  background: white;
+  border-radius: 10px;
+
+
+}
+
+.weather-location {
+  padding: 10px;
+  flex: 1 1 0%;
+}
+.weather-icon {
+  flex: 1 1 0%;
+  padding: 10px;
+  align-items: center;
+  flex-direction: row-reverse;
+  display: flex;
+}

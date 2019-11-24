@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+AIR QUANTITY AND WEATHER
+FROM YOUR LOATION
+
+GET YOUR API HERE https://www.airvisual.com/dashboard/api
+AND CHANGE IN \src\config\index.js
 
 ## Available Scripts
 
