@@ -1,5 +1,4 @@
-AIR QUALITY AND WEATHER
-FROM YOUR LOCATION
+AIR QUALITY AND WEATHER FROM YOUR LOCATION
 
 GET YOUR API HERE https://www.airvisual.com/dashboard/api
 AND CHANGE IN \src\config\index.js
