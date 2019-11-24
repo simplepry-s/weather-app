@@ -1,6 +1,6 @@
 import React from "react";
 import PropsTypes from "prop-types";
-
+ 
 const Weather = props => {
   const {
     weather: { tp, ic },

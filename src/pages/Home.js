@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { key, API, getAQIColor } from "../config";
-
+ 
 import { Air, Weather } from "../components";
 const Home = () => {
   const [location, setLocation] = useState({ city: "", country: "" });

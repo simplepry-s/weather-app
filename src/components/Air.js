@@ -1,7 +1,7 @@
 import React from "react";
 import PropsTypes from "prop-types";
 import { getAQIMessage } from "../config";
-
+ 
 const Air = props => {
   const { air } = props;
   return (

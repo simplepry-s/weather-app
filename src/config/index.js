@@ -2,7 +2,7 @@ export const key = "insert your api here";
 export const API = (lat, long, key) => {
   return `https://api.airvisual.com/v2/nearest_city?lat=${lat}&lon=${long}&key=${key}`;
 };
-
+ 
 export const getAQIMessage = aqi => {
   switch (true) {
     case aqi >= 201:
