@@ -54,8 +54,8 @@ const Home = () => {
   return (
     <div className="home-containner">
       <h2 style={{ textAlign: "center", padding: "20px" }}>
-        AIR QUANTITY AND WEATHER <br />
-        FROM YOUR LOATION
+        AIR QUALITY AND WEATHER <br />
+        FROM YOUR LOCATION
       </h2>
       <div
         className="home-inner"
